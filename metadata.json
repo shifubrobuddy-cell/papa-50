@@ -1,0 +1,6 @@
+{
+  "name": "50 Years of Papa • Golden Jubilee",
+  "description": "A heartfelt Golden Jubilee celebration honoring Mustafa (Abu-g) on his 50th birthday, from his son Mohammad Tameem Mustafa.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
